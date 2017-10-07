@@ -6,7 +6,7 @@
 ---
 
 
-慕课网教程：http://www.imooc.com/learn/283
+根据慕课网教程（http://www.imooc.com/learn/283）改写而来<br>
 原理如下：<br><br>
 ![此处输入图片的描述][1]
 <br>
